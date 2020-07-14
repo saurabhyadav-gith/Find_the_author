@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find the author</string>
+    <string name="instructions">Enter a book name you want to find the writer of</string>
+    <string name="input">Book title ex: Mistborn</string>
+    <string name="button_text">Search Book</string>
+    <string name="author_label">Book Author</string>
+</resources>
